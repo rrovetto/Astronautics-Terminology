@@ -16,11 +16,11 @@ This is a task in the author's Astonautical Knowledge Modeling project, and rela
 ## Author
 Robert J. Rovetto
 rrovetto(at)terpalum.umd.edu
-NASA Datanauts
-AIAA Space Traffic Management Working Group - Co-lead on Lexicon Task
-AIAA Space Architecture Committee on Standards
-IAF  Space Traffic Management Technical Committee
-Center for Orbital Debris Education & Research (CODER), Univ. Maryland.
+* NASA Datanauts
+* AIAA Space Traffic Management Working Group - Co-lead on Lexicon Task
+* AIAA Space Architecture Committee on Standards
+* IAF  Space Traffic Management Technical Committee
+* Center for Orbital Debris Education & Research (CODER), Univ. Maryland.
 
 ## Rights
 © 2018-2020, Robert John Rovetto.

@@ -1,4 +1,4 @@
-# Astronautics Vocabulary
+# Astronautics Terminology
 A cataloging and examination of terms and definitions in astronautics (spaceflight). This is a task in the Astonautical Knowledge Modeling project, and related ontology projects by Robert Rovetto.
 
 ## About

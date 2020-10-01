@@ -1,5 +1,5 @@
 # Astronautics Terminology
-A cataloging and examination of terms and definitions in astronautics (spaceflight). This is a task in the Astonautical Knowledge Modeling project, and related ontology projects by Robert Rovetto.
+A cataloging and examination of terms and definitions in astronautics (spaceflight). This is a task in the author's Astonautical Knowledge Modeling project, and related ontology projects by Robert Rovetto.
 
 ## About
 This provides a living catalog of many generic and specific key terms relevant for disciplines of spaceflight, orbital debris & space situational awareness (SSA), space domain awareness, and space traffic management (stm) has been in-progress. The catalog provides a listing of terms (with definitions from various sources) such as 'astronautics', 'spaceflight', 'orbital debris', 'ssa', 'stm', etc.

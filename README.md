@@ -1,5 +1,5 @@
 # Astronautics Terminology
-A cataloging and examination of terms and definitions in astronautics (spaceflight).
+A cataloging, comparison and examination of terms and definitions in astronautics (spaceflight).
 
 ## About
 This provides a living catalog of broad but key terms, both generic and specific, and their definitions associated with the disciplines of spaceflight, orbital debris & space situational awareness (SSA), space domain awareness, and space traffic management (stm). The catalog, in MS Excel format, provides a listing of terms (with definitions from various sources) such as 'astronautics', 'spaceflight', 'orbital debris', 'ssa', 'stm', etc. 

@@ -10,4 +10,6 @@ This provides a living catalog of many generic and specific key terms relevant f
 - to identify inaccuracies and errors in existing terms and definitions
 
 - A working catalog (MSExcel file) is located "[at this link](https://drive.google.com/file/d/1VxThyvuY_VzVl_VNan9cqTsdI6NrYWgX/view?usp=sharing)"
-(c) 2018-2020, Robert John Rovetto.
+
+## Rights
+© 2018-2020, Robert John Rovetto.

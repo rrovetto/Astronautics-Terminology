@@ -11,7 +11,7 @@ This is a task in the author's Astonautical Knowledge Modeling project, and rela
 - to identify inaccuracies and errors in existing terms and definitions
 
 ## Access
-- The working catalog (in Microsoft Excel) is located "[at this link](https://drive.google.com/file/d/1VxThyvuY_VzVl_VNan9cqTsdI6NrYWgX/view?usp=sharing)"
+- The working catalog (in Microsoft Excel) is located [at this link](https://drive.google.com/file/d/1VxThyvuY_VzVl_VNan9cqTsdI6NrYWgX/view?usp=sharing)
 
 ## Rights
 © 2018-2020, Robert John Rovetto.

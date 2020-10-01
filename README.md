@@ -1,4 +1,4 @@
-# Astronautics Terminology
+# Astronautics Terminology Catalog
 A cataloging, comparison and examination of terms and definitions in astronautics (spaceflight).
 
 ## About

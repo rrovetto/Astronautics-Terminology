@@ -1,7 +1,7 @@
 # Applications of this work currently include the following
 
 ## Used in:
-* The Astroanutics Knowledge Modeling project in the author's GitHub
+* The [Astroanutics Knowledge Modeling](https://purl.org/space-ontology) project in the author's GitHub
   * Ontologies in this project: The Orbital Debris Ontology, the SSA Ontology, The Spacecraft Ontology, The Orbital Event Ontology, The Space Traffic Management Ontology, etc.
     Terms and their definitions are providing information about context, meaning/semantics, and informing the use or formation of ontologucal terms and definitions.
   

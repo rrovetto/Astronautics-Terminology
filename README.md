@@ -17,10 +17,13 @@ This is a task in the author's Astonautical Knowledge Modeling project, and rela
 Robert J. Rovetto
 rrovetto(at)terpalum.umd.edu
 * NASA Datanauts
-* AIAA Space Traffic Management Working Group - Co-lead on Lexicon Task
-* AIAA Space Architecture Committee on Standards
-* IAF  Space Traffic Management Technical Committee
-* Center for Orbital Debris Education & Research (CODER), Univ. Maryland.
+* Center for Orbital Debris Education & Research (CODER), Univ. Maryland. (Research Affiliate)
+* AIAA Space Traffic Management Working Group (Co-lead on Lexicon Task)
+* AIAA Space Architecture Committee on Standards (committee member)
+* IAF  Space Traffic Management Technical Committee. IAF Space Debris Committee. (committee member)
+* CCSDS (committee member)
+* Journal of Search and Rescue (webmaster, journal developer)
+* U.S. Merchant Mariner
 
 ## Rights
 © 2018-2020, Robert John Rovetto.

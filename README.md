@@ -15,7 +15,7 @@ This is a task in the author's [Astonautical Knowledge Modeling project](https:/
 - The working catalog (in Microsoft Excel) is located [at this link](https://drive.google.com/file/d/1VxThyvuY_VzVl_VNan9cqTsdI6NrYWgX/view?usp=sharing)
 - The file(s) is expected to be added to this repository (TBD).
 
-[Catalog spreadsheet](https://raw.githubusercontent.com/rrovetto/Astronautics-Terminology/master/photos/Pic_AstronauticalCatalog1.JPG)
+[Photo of catalog (MS Excel spreadsheet)](https://raw.githubusercontent.com/rrovetto/Astronautics-Terminology/master/photos/Pic_AstronauticalCatalog1.JPG)
 
 ## How you can help / Desiderata
 - This and associated projects by the author have been out-of-pocket while both volunteering for the community and needing an income and study opportunity to continue studies. So please Consider sponsoring or donating via the [sponsorship link shaped like a heart on this page](https://gogetfunding.com/knowledge-organization-services-ontology-terminology-metadata-concept-analysis/).

@@ -15,6 +15,12 @@ This is a task in the author's [Astonautical Knowledge Modeling project](https:/
 - The working catalog (in Microsoft Excel) is located [at this link](https://drive.google.com/file/d/1VxThyvuY_VzVl_VNan9cqTsdI6NrYWgX/view?usp=sharing)
 - The file(s) is expected to be added to this repository (TBD).
 
+## Support / Desiderata / How you can help
+- This and associated projects by the author have been out-of-pocket while both volunteering for the community and needing an income and study opportunity to continue studies. So please Consider sponsoring or donating via the [sponsorship link shaped like a heart on this page](https://gogetfunding.com/knowledge-organization-services-ontology-terminology-metadata-concept-analysis/).
+- Seeking formal collaborations
+- Seeking professors interested in the author as a student
+- However you would like to help
+
 ## Author
 Robert J. Rovetto
 rrovetto(at)terpalum.umd.edu

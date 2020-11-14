@@ -4,7 +4,7 @@ A listing, comparison and examination of terms and definitions in astronautics (
 ## About
 This provides a living catalog of broad but key terms and their definitions associated with the disciplines of spaceflight, orbital debris & space situational awareness (SSA), space domain awareness, and space traffic management (STM). The catalog, in MS Excel format, provides a listing of terms (with definitions from various sources) such as 'astronautics', 'spaceflight', 'orbital debris', 'ssa', 'stm', etc. 
 This is a task in the author's [Astonautical Knowledge Modeling project](https://purl.org/space-ontology), and related ontology projects by Robert Rovetto.
-If you find value in my work, please [support/donate here](https://gogetfunding.com/knowledge-organization-services-ontology-terminology-metadata-concept-analysis/).
+- If you find value in my work, please [support/donate here](https://gogetfunding.com/knowledge-organization-services-ontology-terminology-metadata-concept-analysis/).
 
 ## Goals
 - to provide a non-exhaustive catalog of astronautical terms and definitions as a general reference

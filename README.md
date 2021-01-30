@@ -13,8 +13,9 @@ This is a task in the author's [Astonautical Knowledge Modeling project](https:/
 - to consist, coherent, and accurate knowledge model or voabulary, where desired. 
 
 ## Access
-- The working catalog (in Microsoft Excel) is located [at this link](https://drive.google.com/file/d/1VxThyvuY_VzVl_VNan9cqTsdI6NrYWgX/view?usp=sharing)
 - The file(s) is expected to be added to this repository (TBD).
+- This work is currently unsupported and pursued out-of-pocket in the author's own time. It is highly time-consuming and painstaking work. Therfore, financial support is needed to sustain and release it. Please consider [donating](https://gogetfunding.com/knowledge-organization-services-ontology-terminology-metadata-concept-analysis/) or sponsoring by clicking the 'Sponsor' button with the pink heart icon at the top of this screen. The author is searching for a PhD study opportunity or employer to support doing this and [related](https://ontospace.wordpress.com) work.
+- The working catalog (in Microsoft Excel) is presently located [at this link](https://drive.google.com/file/d/1VxThyvuY_VzVl_VNan9cqTsdI6NrYWgX/view?usp=sharing)
 
 [Photo of catalog (MS Excel spreadsheet)](https://raw.githubusercontent.com/rrovetto/Astronautics-Terminology/master/photos/Pic_AstronauticalCatalog1.JPG)
 
@@ -37,5 +38,5 @@ rrovetto(at)terpalum.umd.edu
 * U.S. Merchant Mariner (Master / Deck Officer - 100 ton)
 
 ## Rights
-© 2018-2020, Robert John Rovetto.
+© 2018-2021, Robert John Rovetto.
 Not authorized for commercial use unless negotiated with the author.

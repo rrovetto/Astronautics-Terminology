@@ -31,12 +31,14 @@ rrovetto(at)terpalum.umd.edu
 * NASA Datanauts (open data group in the Office of Chief Information Officer)
 * Center for Orbital Debris Education & Research (CODER), Univ. Maryland. (Research Affiliate)
 * AIAA Space Traffic Management Working Group (Co-lead on Lexicon Task)
-* AIAA Space Architecture Committee on Standards (Committee member)
+* AIAA Space Architecture Committee on Standards (Committee member. Subject-matter expert on ontology)
 * IAF  Space Traffic Management Technical Committee. IAF Space Debris Committee. (committee member)
 * CCSDS (Committee member)
 * Journal of Search and Rescue (webmaster, journal developer)
 * U.S. Merchant Mariner (Master / Deck Officer - 100 ton)
+* U.S. National Water Safety Plan (Committee member, Rescue)
 
 ## Rights
 © 2018-2021, Robert John Rovetto.
 Not authorized for commercial use unless negotiated with the author.
+Attribution/citation is required.

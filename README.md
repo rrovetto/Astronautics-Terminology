@@ -2,13 +2,12 @@
 A listing, comparison and examination of generic but key terms and definitions in astronautics (spaceflight).
 
 ## About
-This work provides a living catalog of broad but key terms (and their definitions from various sources) associated with the disciplines of spaceflight, orbital debris & space situational awareness (SSA), space domain awareness, and space traffic management (STM) or space traffic coordination (STC). The catalog is in Microsoft Excel format, and provides a listing of terms such as 'astronautics', 'spaceflight', 'orbital debris', 'ssa', 'stm', etc. It is a task in the author's [Astonautical Knowledge Modeling project](https://purl.org/space-ontology), and related ontology/taxonomy projects by Robert Rovetto. This has been unfunded work pursued in the authors spare time, as part of his volunteering for the aerospace community, but while searching for a career path, and needing a job, or studentship opportunitiy to do related work. 
+This work provides a living catalog of broad but key terms (and their definitions from various sources) associated with the disciplines of spaceflight, orbital debris & space situational awareness (SSA), space domain awareness, and space traffic management (STM) or space traffic coordination (STC). The catalog is in Microsoft Excel format, and provides a listing of terms such as 'astronautics', 'spaceflight', 'orbital debris', 'ssa', 'stm', etc. It is a task in the author's [Astonautical Knowledge Modeling project](https://purl.org/space-ontology), and related ontology/taxonomy projects by Robert Rovetto. This has been unfunded work pursued in spare time, while volunteering for the aerospace community, but while searching for a career path, and needing a job or studentship opportunity. The author is searching for a PhD study opportunity, employer, or funding to support this and [related](https://ontospace.wordpress.com) work. As an unfunded effort, donations and sponsors are welcome. 
 
 ## Support - How you can help
- * As an unfunded effort, donations and sponsors are welcome: if you find value in my work, please [donate here](https://tinyurl.com/y9qegjsh) or [support here](https://gogetfunding.com/knowledge-organization-services-ontology-terminology-metadata-concept-analysis/). You can also click the pink heart 'Sponsor' button at the top of the screen.
+ * If you find value in my work, please [donate here](https://tinyurl.com/y9qegjsh) or [support here](https://gogetfunding.com/knowledge-organization-services-ontology-terminology-metadata-concept-analysis/). Or click the 'Sponsor' button shaped like a pink heart at the top of the screen.
 * Consider hiring me or establishing a formal work partnership. [Schedule a meeting here](http://my.setmore.com/bookingpage/f18db686-98bb-41dd-9097-35218b2a1091/services/sb83f723d7838e4484783cc5a1c675f0e6eedf99d).
 * As an aspiring student, actively searching for a university program, please consider inviting me to enroll as your student to do this and related work.
-I'm searching for a PhD study opportunity, employer, or funding to support doing this and [related](https://ontospace.wordpress.com) work.  
 * Contact: [Schedule a meeting or purchase services](https://knowledgemodeling.setmore.com/)
 
 ## Goals
@@ -21,7 +20,7 @@ I'm searching for a PhD study opportunity, employer, or funding to support doing
 ## Access
 - The file(s) is expected to be added to this repository (TBD).
 - This work is currently pursued out-of-pocket. It is highly time-consuming and painstaking work, especially while needing an income. Therefore, financial support is needed to sustain and release it. Please consider formally supporting the effort so that service-to-discipline can continue to contribute to the goal of safe spaceflight for all. 
-- The working catalog (in Microsoft Excel) is presently located [at this link](https://drive.google.com/file/d/1VxThyvuY_VzVl_VNan9cqTsdI6NrYWgX/view?usp=sharing)
+- The working catalog (in Microsoft Excel) is presently located [here](https://drive.google.com/file/d/1VxThyvuY_VzVl_VNan9cqTsdI6NrYWgX/view?usp=sharing)
 
 [Photo of catalog (MS Excel spreadsheet)](https://raw.githubusercontent.com/rrovetto/Astronautics-Terminology/master/photos/Pic_AstronauticalCatalog1.JPG)
 

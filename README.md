@@ -38,7 +38,10 @@ rrovetto(at)terpalum.umd.edu
 * U.S. Merchant Mariner (Master / Deck Officer - 100 ton)
 * U.S. National Water Safety Plan (Committee Member, Rescue)
 
-## Rights
-© 2018-2021, Robert John Rovetto.
-Not authorized for commercial use unless negotiated with the author.
-Attribution/citation is required.
+## Warranty
+No warranty. Presented "AS IS". Author and copyright holder is not liable.
+All content, work and products are subject to revision. No claims to completeness. 
+
+## Copyright
+© 2018-2021, Robert John Rovetto. All right reserved.
+Not authorized for commercial use unless explicitly negotiated with the author. Citation/attribution required.

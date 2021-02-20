@@ -1,15 +1,19 @@
 # Astronautics Terminology Catalog
-A listing, comparison and examination of terms and definitions in astronautics (spaceflight).
+A listing, comparison and examination of generic but key terms and definitions in astronautics (spaceflight).
 
 ## About
-This provides a living catalog of broad but key terms and their definitions associated with the disciplines of spaceflight, orbital debris & space situational awareness (SSA), space domain awareness, and space traffic management (STM). The catalog, in MS Excel format, provides a listing of terms (with definitions from various sources) such as 'astronautics', 'spaceflight', 'orbital debris', 'ssa', 'stm', etc. 
-This is a task in the author's [Astonautical Knowledge Modeling project](https://purl.org/space-ontology), and related ontology projects by Robert Rovetto.
-* If you find value in my work, please [support/donate here](https://gogetfunding.com/knowledge-organization-services-ontology-terminology-metadata-concept-analysis/).
+This work provides a living catalog of broad but key terms (and their definitions from various sources) associated with the disciplines of spaceflight, orbital debris & space situational awareness (SSA), space domain awareness, and space traffic management (STM) or space traffic coordination (STC). The catalog is in Microsoft Excel format, and provides a listing of terms such as 'astronautics', 'spaceflight', 'orbital debris', 'ssa', 'stm', etc. It is a task in the author's [Astonautical Knowledge Modeling project](https://purl.org/space-ontology), and related ontology/taxonomy projects by Robert Rovetto. This has been unfunded work pursued in the authors spare time, as part of his volunteering for the aerospace community, but while searching for a career path, a job, income, or studentship opportunitiy to do related work. 
+
+## Support - How you can help
+ * As an unfunded effort, donations and sponsors are welcome: if you find value in my work, please [donate here](https://tinyurl.com/y9qegjsh) or [support here](https://gogetfunding.com/knowledge-organization-services-ontology-terminology-metadata-concept-analysis/).
+* Consider hiring me or establishing a formal work partnership. [Schedule a meeting here](http://my.setmore.com/bookingpage/f18db686-98bb-41dd-9097-35218b2a1091/services/sb83f723d7838e4484783cc5a1c675f0e6eedf99d).
+* As an aspiring PhD student, please consider inviting to enroll as a student to do this and related work. 
 * Contact: [Schedule a meeting or purchase services](https://knowledgemodeling.setmore.com/)
 
 ## Goals
-- to provide a non-exhaustive catalog of astronautical terms and definitions as a general reference
-- a semantic and conceptual analysis to help inform the development of ontologies for astronautics (see other repositories by rrovetto), and to help improve limitations of existing knowledge organization systems.
+- to provide a non-exhaustive catalog of key astronautical terms and definitions as a general reference
+- a semantic, conceptual and ontological analysis to help inform the development of knowledge modeling and terminological systems such as ontologies for astronautics (see other GitHub repositories by [rrovetto](https://github.com/rrovetto)
+- to help improve existing knowledge organization systems.
 - to identify inaccuracies and errors in existing terms and definitions across documents/sources/organizations, and contribute to their improvement.
 - to consist, coherent, and accurate knowledge model or voabulary, where desired. 
 
@@ -20,11 +24,6 @@ This is a task in the author's [Astonautical Knowledge Modeling project](https:/
 
 [Photo of catalog (MS Excel spreadsheet)](https://raw.githubusercontent.com/rrovetto/Astronautics-Terminology/master/photos/Pic_AstronauticalCatalog1.JPG)
 
-## How you can help / Desiderata
-- This and associated projects by the author have been out-of-pocket while both volunteering for the community and needing an income and study opportunity to continue studies. So please Consider sponsoring or donating via the [sponsorship link shaped like a heart on this page](https://gogetfunding.com/knowledge-organization-services-ontology-terminology-metadata-concept-analysis/).
-- Seeking formal collaborations
-- Seeking professors interested in the author as a student
-- However you would like to help
 
 ## Author
 Robert J. Rovetto

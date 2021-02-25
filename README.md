@@ -1,12 +1,18 @@
 # Astronautics Terminology Catalog
-A listing, comparison and examination of generic but key terms and definitions in astronautics (spaceflight).
+A living collection, comparison and examination of generic but key terms and definitions in astronautics (spaceflight).
+
+## Status
+In-progress, and no claims to completeness.
+This work is currently unfunded and pursued in the authors own time while actively needing a career-path and study opportunity. 
+Therefore, if you find value in my work, please consider donating or offering formal support (such as a PhD studentship, a contractor job, or being a sponsor).
 
 ## About
 This work provides a living catalog of broad but key terms (and their definitions from various sources) associated with the disciplines of spaceflight, orbital debris & space situational awareness (SSA), space domain awareness, and space traffic management (STM) or space traffic coordination (STC). The catalog is in Microsoft Excel format, and provides a listing of terms such as 'astronautics', 'spaceflight', 'orbital debris', 'ssa', 'stm', etc. It is a task in the author's [Astonautical Knowledge Modeling project](https://purl.org/space-ontology), and related ontology/taxonomy projects by Robert Rovetto. This has been unfunded work pursued in spare time, while volunteering for the aerospace community, but while searching for a career path, and needing a job or studentship opportunity. The author is searching for a PhD study opportunity, employer, or funding to support this and [related](https://ontospace.wordpress.com) work. As an unfunded effort, donations and sponsors are welcome. 
 
 ## Support - How you can help
- * If you find value in my work, please [donate here](https://tinyurl.com/y9qegjsh) or [support here](https://gogetfunding.com/knowledge-organization-services-ontology-terminology-metadata-concept-analysis/). Or click the pink heart 'Sponsor' button at the top of the screen.
-* Consider hiring me or establishing a formal work partnership. [Schedule a meeting here](http://my.setmore.com/bookingpage/f18db686-98bb-41dd-9097-35218b2a1091/services/sb83f723d7838e4484783cc5a1c675f0e6eedf99d).
+* [Donate here](https://tinyurl.com/y9qegjsh) or [fund here](https://gogetfunding.com/knowledge-organization-services-ontology-terminology-metadata-concept-analysis/). 
+* Click the pink heart 'Sponsor' button at the top of the screen.
+* Please consider hiring me or establishing a formal work partnership. [Schedule a meeting here](http://my.setmore.com/bookingpage/f18db686-98bb-41dd-9097-35218b2a1091/services/sb83f723d7838e4484783cc5a1c675f0e6eedf99d).
 * As an aspiring student, actively searching for a university program, please consider inviting me to enroll as your student to do this and related work.
 * Contact: [Schedule a meeting or purchase services](https://knowledgemodeling.setmore.com/)
 

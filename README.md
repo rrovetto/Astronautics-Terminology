@@ -3,7 +3,7 @@ A living collection, comparison and examination of generic but key terms and def
 
 ## Goals
 - To provide a non-exhaustive catalog of key astronautical terms and definitions as a general reference
-- A semantic, conceptual and ontological analysis to help inform the development of knowledge modeling and terminological systems such as ontologies for astronautics (see other GitHub repositories by [rrovetto](https://github.com/rrovetto)
+- A semantic, conceptual and ontological analysis to help inform the development of knowledge modeling and terminological systems such as ontologies for astronautics (see other GitHub repositories by [rrovetto](https://github.com/rrovetto))
 - To help improve existing knowledge organization systems.
 - To identify inaccuracies and errors in existing terms and definitions across documents, sources, and organizations (and to contribute to their improvement).
 - To offer a consistence, coherent, and accurate knowledge model or vocabulary, where desired. 

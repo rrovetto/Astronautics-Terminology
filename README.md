@@ -10,7 +10,7 @@ A living collection, comparison and examination of generic but key terms and def
 
 ## Status
 * In-progress, and no claims to completeness.
-* Currently unfunded and pursued in the authors own time while actively needing study or work opportunities. As an unfunded work, donations and sponsors are welcome.
+* Currently unfunded and pursued in the authors own time while actively needing study or work opportunities. As an unfunded project, donations and sponsors are welcome.
 
 ## About
 This work provides a living catalog of broad but key terms (and their definitions from various sources) associated with the disciplines of spaceflight, orbital debris & space situational awareness (SSA), space domain awareness, and space traffic management (STM) or space traffic coordination (STC). The catalog is in Microsoft Excel format, and provides a listing of terms such as 'astronautics', 'spaceflight', 'orbital debris', 'ssa', 'stm', etc. It is a task in the author's [Astonautical Knowledge Modeling project](https://purl.org/space-ontology), and related ontology/taxonomy projects by Robert Rovetto. This has been unsupported work, pursued while also volunteering for the community, but while also acitvely needing a career-path, a job or studentship opportunity. 

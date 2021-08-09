@@ -10,13 +10,15 @@ A living collection, comparison and examination of generic but key terms and def
 
 ## Status
 * In-progress, and no claims to completeness.
-* Currently unfunded and pursued in the authors own time while actively needing study or work opportunities. As an unfunded project, donations and sponsors are welcome.
+* Currently unfunded and pursued in the authors own time. As an unfunded project, donations and sponsors are welcome.
 
 ## About
-This work provides a living catalog of broad but key terms (and their definitions from various sources) associated with the disciplines of spaceflight, orbital debris & space situational awareness (SSA), space domain awareness, and space traffic management (STM) or space traffic coordination (STC). The catalog is in Microsoft Excel format, and provides a listing of terms such as 'astronautics', 'spaceflight', 'orbital debris', 'ssa', 'stm', etc. It is a task in the author's [Astonautical Knowledge Modeling project](https://purl.org/space-ontology), and related ontology/taxonomy projects by Robert Rovetto. This has been unsupported work, pursued while also volunteering for the community, but while also acitvely needing a career-path, a job or studentship opportunity. 
+This work provides a living catalog of broad but key terms (and their definitions from various sources) associated with the disciplines of spaceflight, orbital debris & space situational awareness (SSA), space domain awareness, and space traffic management (STM) or space traffic coordination (STC). The catalog is in Microsoft Excel format, and provides a listing of terms such as 'astronautics', 'spaceflight', 'orbital debris', 'ssa', 'stm', etc. 
+
+It is a task in the author's [Astonautical Knowledge Modeling project](https://purl.org/space-ontology), and related ontology/taxonomy projects by Robert Rovetto. This has been unsupported work, pursued by the author while also volunteering for the community, but while also currently needing a career-path, a employment, or a studentship opportunity. 
 
 ## Support - How you can help
-* If you find value in this work, please consider formally supporting so work can continue in a compensated (and therefore unburdened) manner. The author desires a PhD study opportunity, an employer sponsor, or other funding to support this and [related long-standing](https://ontospace.wordpress.com) work. 
+* If you find value in this work, please formally support it so development can continue in a compensated (and therefore unburdened) and sustainable manner. The author desires a PhD study opportunity, an employer sponsor, or other funding sources to sustain this and [related](https://ontospace.wordpress.com) projects. 
 * [Donate here](https://tinyurl.com/y9qegjsh) or [fund here](https://gogetfunding.com/knowledge-organization-services-ontology-terminology-metadata-concept-analysis/). 
 * Click the pink heart 'Sponsor' button at the top of the screen.
 * Consider hiring me or establishing a formal work partnership: [Schedule a Meeting here](http://my.setmore.com/bookingpage/f18db686-98bb-41dd-9097-35218b2a1091/services/sb83f723d7838e4484783cc5a1c675f0e6eedf99d).
@@ -35,14 +37,14 @@ This work provides a living catalog of broad but key terms (and their definition
 Robert J. Rovetto
 rrovetto(at)terpalum.umd.edu
 Formal ontologist, Conceptual Modeler, Researcher, Contractor/Consultant.
-* NASA Datanauts (member)
+* NASA Datanauts (member. class of 2017)
 * Center for Orbital Debris Education & Research (CODER), Univ. Maryland. (Research Affiliate)
 * AIAA Space Traffic Management Working Group (Co-lead on Lexicon topics)
 * AIAA Space Architecture Committee on Standards (Committee Member. Subject-matter expert on ontology)
 * International Astronautical Federation (IAF), Space Traffic Management Technical Committee. IAF Space Debris Committee. (Committee member)
 * Consultative Committee for Space Data Standards (CCSDS) (Committee member)
-* Journal of Search and Rescue (Webmaster, Journal developer)
-* U.S. Merchant Mariner (Master / Deck Officer - Motorvessels to 100 ton)
+* Journal of Search and Rescue (a webmaster, and journal developer)
+* U.S. Merchant Mariner (Master / Deck Officer - Motorvessels)
 * U.S. National Water Safety Plan (Committee Member, Rescue task group)
 
 ## Warranty

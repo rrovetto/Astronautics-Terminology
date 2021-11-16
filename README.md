@@ -1,27 +1,26 @@
 # Astronautics Terminology Catalog
-A living collection, comparison and examination of generic but key terms and definitions in astronautics (spaceflight).
-
-## Goals
-- To provide a non-exhaustive catalog of key generic astronautical terms and their definitions (as a general reference).
-- To identify inaccuracies and errors in existing terms and definitions found in the literature, particularly standards organization documents (and to recommend improvements).
+## About
+This work provides a living catalog, collecting broad but key terms (and their definitions from various sources) associated with the disciplines of spaceflight, orbital debris & space situational awareness (SSA), space domain awareness, and space traffic management (STM) and space traffic coordination (STC). The catalog is presently in Microsoft Excel format, and provides a listing of terms such as 'astronautics', 'spaceflight', 'orbital debris', 'ssa', 'stm', etc. [Contact here](https://ontospace.wordpress.com/contact).
+### Goals
+- To provide a non-exhaustive catalog of key generic terms and their various definitions (to serve as a general reference).
+- To examine and compare terms and those definitions. 
+- To identify inaccuracies and errors in existing terms and definitions found in the literature, particularly standards organization documents
+- To recommend improvements or changes
 - A semantic, conceptual and ontological analysis to help inform the development of knowledge modeling and terminological systems such as [ontologies for astronautics (see other GitHub repositories by rrovetto](https://github.com/rrovetto))
 - To offer a consistence, coherent, and accurate knowledge model or vocabulary, where desired. 
 - To help improve existing knowledge organization systems for space.
+### Status
+* In-progress, subject to revision, and no claims to completeness.
+* Currently unfunded. As a personal project, [donations, sponsors and formal work collaborations are welcome, needed and appreciated](https://tinyurl.com/y9qegjsh).
 
-## Status
-* In-progress, and no claims to completeness.
-* Currently unfunded and pursued in the authors own time. As an unfunded project, [donations and sponsors are welcome](https://tinyurl.com/y9qegjsh).
-
-## About
-This work provides a living catalog of broad but key terms (and their definitions from various sources) associated with the disciplines of spaceflight, orbital debris & space situational awareness (SSA), space domain awareness, and space traffic management (STM) or space traffic coordination (STC). The catalog is in Microsoft Excel format, and provides a listing of terms such as 'astronautics', 'spaceflight', 'orbital debris', 'ssa', 'stm', etc. 
-
-It is a task in the author's [Astronautical Knowledge Modeling project](https://purl.org/space-ontology), and related ontology/taxonomy projects by Robert Rovetto. This has been unsupported work, pursued by the author while also volunteering for the community, but while also currently needing a career-path, a employment, or a studentship opportunity. 
-
+![Photo of the catalog of spaceflight terms](https://github.com/rrovetto/Astronautics-Terminology/raw/master/photos/Pic_AstronauticalCatalog1.JPG) 
+### Broader applicability & Associated projects
+It is a task in the author's [Astronautical/Space Knowledge Modeling project](https://purl.org/space-ontology), and related ontology/taxonomy projects by [Robert Rovetto](https://orcid.org/0000-0003-3835-7817).
 ## Support - How you can help
-* If you find value in this work, please support it financially or offer the author a PhD study or employment opportunity for this and [related](https://ontospace.wordpress.com) projects. 
-* [Donate here](https://tinyurl.com/y9qegjsh) or [Fund here](https://gogetfunding.com/knowledge-organization-services-ontology-terminology-metadata-concept-analysis/). 
-* Click the pink heart 'Sponsor' button at the top of the screen.
-* Consider hiring me or establishing a formal work partnership: [Schedule a Meeting here](http://my.setmore.com/bookingpage/f18db686-98bb-41dd-9097-35218b2a1091/services/sb83f723d7838e4484783cc5a1c675f0e6eedf99d).
+* If you find value in this work, please formally support it or offer a study or employment opportunity to sustainably pursue this and/or [related](https://ontospace.wordpress.com) projects: 
+  - [Donate here](https://tinyurl.com/y9qegjsh) or [Fund here](https://gogetfunding.com/knowledge-organization-services-ontology-terminology-metadata-concept-analysis/). 
+  - Click the pink heart 'Sponsor' button at the top of the screen.
+  - Consider hiring me or establishing a formal work partnership: [Schedule a Meeting here](http://my.setmore.com/bookingpage/f18db686-98bb-41dd-9097-35218b2a1091/services/sb83f723d7838e4484783cc5a1c675f0e6eedf99d).
 * As an aspiring student, actively searching for a university program, please consider inviting me to enroll as your student to do this and related work.
 * This work is currently pursued out-of-pocket. It is highly time-consuming and painstaking work, and a burden while needing opportunities. Therefore, financial support is needed to sustain and to justify release it. Please consider formally supporting the effort so that service-to-discipline can continue, and contribute to the goal of safe spaceflight for all. 
 

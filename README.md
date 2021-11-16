@@ -15,37 +15,30 @@ This work provides a living catalog, collecting broad but key terms (and their d
 
 ![Photo of the catalog of spaceflight terms](https://github.com/rrovetto/Astronautics-Terminology/raw/master/photos/Pic_AstronauticalCatalog1.JPG) 
 ### Broader applicability & Associated projects
-It is a task in the author's [Astronautical/Space Knowledge Modeling project](https://purl.org/space-ontology), and related ontology/taxonomy projects by [Robert Rovetto](https://orcid.org/0000-0003-3835-7817).
-## Support - How you can help
-* If you find value in this work, please formally support it or offer a study or employment opportunity to sustainably pursue this and/or [related](https://ontospace.wordpress.com) projects: 
-  - [Donate here](https://tinyurl.com/y9qegjsh) or [Fund here](https://gogetfunding.com/knowledge-organization-services-ontology-terminology-metadata-concept-analysis/). 
-  - Click the pink heart 'Sponsor' button at the top of the screen.
-  - Consider hiring me or establishing a formal work partnership: [Schedule a Meeting here](http://my.setmore.com/bookingpage/f18db686-98bb-41dd-9097-35218b2a1091/services/sb83f723d7838e4484783cc5a1c675f0e6eedf99d).
-* As an aspiring student, actively searching for a university program, please consider inviting me to enroll as your student to do this and related work.
-* This work is currently pursued out-of-pocket. It is highly time-consuming and painstaking work, and a burden while needing opportunities. Therefore, financial support is needed to sustain and to justify release it. Please consider formally supporting the effort so that service-to-discipline can continue, and contribute to the goal of safe spaceflight for all. 
-
-[Schedule a meeting or purchase services](https://knowledgemodeling.setmore.com/)
-
+- It is a task in the author's [Astronautical/Space Knowledge Modeling project](https://purl.org/space-ontology), and related ontology/taxonomy projects by [Robert Rovetto](https://orcid.org/0000-0003-3835-7817).
+- Some content used in the AIAA Space Traffic Management Working Group Lexicon sub-group
+- Some content used in International Astronautical Federation (IAF), Space Traffic Management Technical Committee.
 ## Access
 - The file(s) is expected to be added to this repository (TBD).
 - The working catalog (in Microsoft Excel) is presently located [here](https://drive.google.com/file/d/1VxThyvuY_VzVl_VNan9cqTsdI6NrYWgX/view?usp=sharing)
+- [Photo of catalog (MS Excel spreadsheet)](https://raw.githubusercontent.com/rrovetto/Astronautics-Terminology/master/photos/Pic_AstronauticalCatalog1.JPG)
+## Support - How you can help
+* If you find value in this work, please formally support it to sustain the continued development of this and/or [related](https://ontospace.wordpress.com) projects:: 
+  - [Donate here](https://tinyurl.com/y9qegjsh) or [Fund here](https://gogetfunding.com/knowledge-organization-services-ontology-terminology-metadata-concept-analysis/). 
+  - Click the pink heart 'Sponsor' button at the top of the screen.
+  - Hiring me or establishing a formal work partnership: [Schedule a Meeting here](http://my.setmore.com/bookingpage/f18db686-98bb-41dd-9097-35218b2a1091/services/sb83f723d7838e4484783cc5a1c675f0e6eedf99d). 
+  - As an aspiring phd student, actively applying and searching for a degree program, also consider inviting me to enroll as your student.
+* Please consider formally supporting the effort so that service-to-discipline can continue, and contribute to the goal of safe spaceflight for all. 
 
-[Photo of catalog (MS Excel spreadsheet)](https://raw.githubusercontent.com/rrovetto/Astronautics-Terminology/master/photos/Pic_AstronauticalCatalog1.JPG)
-
-
-## Author
-Robert J. Rovetto
+## Author & Developer
+Robert J. Rovetto - [Schedule a meeting or purchase services](https://knowledgemodeling.setmore.com/)
 rrovetto(at)terpalum.umd.edu, https://github.com/rrovetto
-Formal ontologist, Conceptual Modeler, Researcher, Contractor/Consultant, Philosopher.
-* NASA Datanauts (2017-20. Class of 2017)
-* Center for Orbital Debris Education & Research (CODER), Univ. Maryland. (Research Affiliate)
-* AIAA Space Traffic Management Working Group (Co-lead on Lexicon topics)
-* AIAA Space Architecture Committee on Standards (Committee Member. Subject-matter expert on ontology)
-* International Astronautical Federation (IAF), Space Traffic Management Technical Committee. IAF Space Debris Committee. (Committee member)
-* Consultative Committee for Space Data Standards (CCSDS) (Committee member)
-* Journal of Search and Rescue (a webmaster, and journal developer)
-* U.S. Merchant Mariner (Master / Deck Officer - Motor vessels)
-* U.S. National Water Safety Action Plan (Committee Member)
+Conceptual Engineering - Knowledge modeling, Formal ontology, Research, Philosophy, Contractor/Consultant.
+_Selected Community service & involvement_:
+* Co-lead on lexicon topics, AIAA STM Working Group
+* Commitee member, SME on ontology, AIAA Space Architecture Committee on Standards
+* Committee member, International Astronautical Federation, STM Technical Committee. IAF Space Debris Committee.
+* Member, Consultative Committee for Space Data Standards (CCSDS)
 
 ## Copyright
 © 2018-2021, Robert John Rovetto. All right reserved.

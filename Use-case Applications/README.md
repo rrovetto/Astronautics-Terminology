@@ -10,4 +10,4 @@
   * [Example work online 1](https://docs.google.com/spreadsheets/d/15u5GTNpnGbVDUcyHszOPOyUJm07yRPWjoAjtlEz9rIw/edit#gid=1439711854), [Example work 2 - lexicon dev.](https://drive.google.com/file/d/1arfMDy1H6D6_Ex2UBONBfZRp1V-f3ner/view?usp=sharing) 
 
 ## Provided as a reference in:
-* The [International Astronautical Federation's Space Traffic Managment Tehcnical](https://www.iafastro.org/about/iaf-committees/technical-committees/space-traffic-management-committee.html) Committee's Terminology group.
+* The [International Astronautical Federation's Space Traffic Managment Technical](https://www.iafastro.org/about/iaf-committees/technical-committees/space-traffic-management-committee.html) Committee's Terminology group.

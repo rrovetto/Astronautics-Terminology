@@ -1,6 +1,6 @@
 # Astronautics Terminology Catalog
 ## About
-This work provides a living catalog, collecting broad but key terms (and their definitions from various sources) associated with the disciplines of spaceflight, orbital debris & space situational awareness (SSA), space domain awareness, and space traffic management (STM) and space traffic coordination (STC). The catalog is presently in Microsoft Excel format, and provides a listing of terms such as 'astronautics', 'spaceflight', 'orbital debris', 'ssa', 'stm', etc. [Contact here](https://ontospace.wordpress.com/contact).
+This work provides a living catalog, collecting broad but key terms (and their definitions from various sources) associated with the disciplines of astronautics/spaceflight, space situational awareness (SSA), and space traffic management and coordination. It also provides a living analysis toward developing products and recommendations for the community, aiming for terminological harmonization, semantic interoperability, and ontology development (for the latter [see this](https://ontospace.wordpress.com). The term catalog provides a listing of terms such as 'astronautics', 'spaceflight', 'orbital debris', 'ssa', 'stm', etc. [Contact here](https://ontospace.wordpress.com/contact).
 ### Goals
 - To provide a non-exhaustive catalog of key generic terms and their various definitions (to serve as a general reference).
 - To examine and compare terms and those definitions. 
@@ -19,7 +19,7 @@ This work provides a living catalog, collecting broad but key terms (and their d
 - Some content used in the AIAA Space Traffic Management Working Group Lexicon sub-group
 - Some content used in International Astronautical Federation (IAF), Space Traffic Management Technical Committee.
 ## Access
-- The file(s) is expected to be added to this repository (TBD).
+- The file(s) is expected to be added to this repository (TBD), possibly when funding/formal support is attained.
 - The working catalog (in Microsoft Excel) is presently located [here](https://drive.google.com/file/d/1VxThyvuY_VzVl_VNan9cqTsdI6NrYWgX/view?usp=sharing)
 - [Photo of catalog (MS Excel spreadsheet)](https://raw.githubusercontent.com/rrovetto/Astronautics-Terminology/master/photos/Pic_AstronauticalCatalog1.JPG)
 ## Support - How you can help
@@ -32,15 +32,16 @@ This work provides a living catalog, collecting broad but key terms (and their d
 
 ## Author & Developer
 Robert J. Rovetto - [Schedule a meeting or purchase services](https://knowledgemodeling.setmore.com/)
-rrovetto(at)terpalum.umd.edu, https://github.com/rrovetto
-Conceptual Engineering - Knowledge modeling, Formal ontology, Research, Philosophy, Contractor/Consultant.
-_Selected Community service & involvement_:
-* Co-lead on lexicon topics, AIAA STM Working Group
-* Commitee member, SME on ontology, AIAA Space Architecture Committee on Standards
-* Committee member, International Astronautical Federation, STM Technical Committee. IAF Space Debris Committee.
-* Member, Consultative Committee for Space Data Standards (CCSDS)
+https://ontospace.wordpress.com/contact, https://github.com/rrovetto
+Conceptual Engineering - Knowledge representation/modeling, Formal ontology, Research, Philosophy.
+_Selected Community Service & Activity_:
+* Co-lead lexicon topics in AIAA
+* Commitee member, and SME on ontology in AIAA
+* Contributing co-author to [ANSI/AIAA S-153-2021 national standard](https://arc.aiaa.org/doi/book/10.2514/4.106286)
+* Member providing ontology input, Consultative Committee for Space Data Standards (CCSDS)
+* Drafted co-authored terminology paper and report in as committee member of groups in International Astronautical Federation
 
 ## Copyright
-© 2018-2021, Robert John Rovetto. All right reserved.
+© 2018-2022, Robert John Rovetto. All right reserved.
 Not authorized for commercial use unless explicitly negotiated with the author. Citation/attribution required. No warranty. Presented "AS IS". Author and copyright holder is not liable.
 All content, work and products are subject to revision. No claims to completeness. 

@@ -7,7 +7,7 @@ This work provides a living catalog, collecting broad but key terms (and their d
 - To examine and compare terms and those definitions. 
 - To identify inaccuracies and errors in existing terms and definitions found in the literature, particularly standards organization documents
 - To recommend improvements or changes
-- A semantic, conceptual and ontological analysis to help inform the development of knowledge modeling and terminological systems such as [ontologies for astronautics (see other GitHub repositories by rrovetto](https://github.com/rrovetto))
+- A semantic, conceptual and ontological analysis to help inform the development of knowledge modeling and terminological systems such as [ontologies for astronautics](https://purl.org/space-ontology)
 - To offer a consistence, coherent, and accurate knowledge model or vocabulary, where desired. 
 - To help improve existing knowledge organization systems for space.
 

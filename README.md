@@ -1,4 +1,4 @@
-# Astronautics Terminology Catalog
+# Catalog of Astronautical Terminology
 ## About
 This work provides a living catalog, collecting broad but key terms (and their definitions from various sources) associated with the disciplines of astronautics/spaceflight, space situational awareness (SSA), and space traffic management and coordination. It also provides a living analysis toward developing products and recommendations for the community, aiming for terminological harmonization, semantic interoperability, and ontology development (for the latter [see this](https://ontospace.wordpress.com). The term catalog provides a listing of terms such as 'astronautics', 'spaceflight', 'orbital debris', 'ssa', 'stm', etc. [Contact here](https://ontospace.wordpress.com/contact).
 ### Goals

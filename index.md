@@ -27,7 +27,7 @@ This work provides a living catalog, collecting broad but key terms (and their d
 - The working catalog (in Microsoft Excel) is presently located [here](https://drive.google.com/file/d/1VxThyvuY_VzVl_VNan9cqTsdI6NrYWgX/view?usp=sharing)
 - [Photo of catalog (MS Excel spreadsheet)](https://raw.githubusercontent.com/rrovetto/Astronautics-Terminology/master/photos/Pic_AstronauticalCatalog1.JPG)
 
-## Support - How you can help
+### Support - How you can help
 * If you find value in this work, please formally support it to sustain the continued development of this and/or [related](https://ontospace.wordpress.com) projects:: 
   - [Donate here](https://tinyurl.com/y9qegjsh) or [Fund here](https://gogetfunding.com/knowledge-organization-services-ontology-terminology-metadata-concept-analysis/). 
   - Click the pink heart 'Sponsor' button at the top of the screen.
@@ -35,7 +35,7 @@ This work provides a living catalog, collecting broad but key terms (and their d
   - As an aspiring phd student, actively applying and searching for a degree program, also consider inviting me to enroll as your student.
 * Please consider formally supporting the effort so that service-to-discipline can continue, and contribute to the goal of safe spaceflight for all. 
 
-## Author & Developer
+### Author & Developer
 Robert J. Rovetto - [Schedule a meeting or purchase services](https://knowledgemodeling.setmore.com/)
 https://ontospace.wordpress.com/contact, https://github.com/rrovetto
 Concept Engineer - Knowledge representation/modeling | Formal ontology | Terminology | Research | Philosophy
@@ -46,6 +46,6 @@ _Selected Community Service & Activity_:
 * Member providing ontology input, Consultative Committee for Space Data Standards (CCSDS)
 * Drafted co-authored terminology paper and report in as committee member of groups in International Astronautical Federation
 
-## Copyright
+### Copyright
 © 2022, Robert J. Rovetto. All right reserved.
 Not authorized for commercial use unless explicitly negotiated with the author. Citation/attribution required. No warranty. Presented "AS IS". Author and copyright holder is not liable. All content, work and products are subject to revision. No claims to completeness. 

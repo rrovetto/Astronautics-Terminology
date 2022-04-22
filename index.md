@@ -37,7 +37,7 @@ This work provides a living catalog, collecting broad but key terms (and their d
 
 ### Author & Developer
 Robert J. Rovetto - [Schedule a meeting or purchase services](https://knowledgemodeling.setmore.com/)
-https://ontospace.wordpress.com/contact, https://github.com/rrovetto
+https://ontospace.wordpress.com/contact, https://github.com/rrovetto TEST
 Concept Engineer - Knowledge representation/modeling | Formal ontology | Terminology | Research | Philosophy
 _Selected Community Service & Activity_:
 * Co-lead lexicon topics in AIAA

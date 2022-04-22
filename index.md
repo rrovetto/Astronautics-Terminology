@@ -34,7 +34,8 @@ This work provides a living catalog, collecting broad but key terms (and their d
   - As an aspiring PhD student, worldwide, consider inviting me to enroll as your student.
 
 ### Author & Developer
-Robert J. Rovetto - [Schedule, hire, or purchase services](https://knowledgemodeling.setmore.com/) or [Contact](https://ontospace.wordpress.com/contact)
+Robert J. Rovetto - [Schedule, hire, or purchase services](https://knowledgemodeling.setmore.com/) or [Contact](https://ontospace.wordpress.com/contact).
+
 Concept Engineer - Knowledge representation/modeling, Formal ontology, Terminology, Research, Philosophy.
 _Relevant Activity & Output_:
 * Co-lead lexicon topics in AIAA

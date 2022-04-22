@@ -16,12 +16,13 @@ This work provides a living catalog, collecting broad but key terms (and their d
 * Currently unfunded. As a personal project, [donations, sponsors and formal work collaborations are welcome, needed and appreciated](https://tinyurl.com/y9qegjsh).
 
 ![Photo of the catalog of spaceflight terms](https://github.com/rrovetto/Astronautics-Terminology/raw/master/photos/Pic_AstronauticalCatalog1.JPG) 
+
 ### Broader applicability & Associated projects
 - It is a task in the author's [Astronautical/Space Knowledge Modeling project](https://purl.org/space-ontology), and related ontology/taxonomy projects by [Robert Rovetto](https://orcid.org/0000-0003-3835-7817).
 - Some content used in the AIAA Space Traffic Management Working Group Lexicon sub-group
 - Some content used in International Astronautical Federation (IAF), Space Traffic Management Technical Committee.
 
-## Access
+### Access
 - The file(s) is expected to be added to this repository (TBD), possibly when funding/formal support is attained.
 - The working catalog (in Microsoft Excel) is presently located [here](https://drive.google.com/file/d/1VxThyvuY_VzVl_VNan9cqTsdI6NrYWgX/view?usp=sharing)
 - [Photo of catalog (MS Excel spreadsheet)](https://raw.githubusercontent.com/rrovetto/Astronautics-Terminology/master/photos/Pic_AstronauticalCatalog1.JPG)

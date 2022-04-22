@@ -7,7 +7,7 @@ This work provides a living catalog, collecting broad but key terms (and their d
 - To examine and compare terms and those definitions. 
 - To identify inaccuracies and errors in existing terms and definitions found in the literature, particularly standards organization documents
 - To recommend improvements or changes
-- A semantic, conceptual and ontological analysis to help inform the development of knowledge modeling and terminological systems such as [ontologies for astronautics](https://purl.org/space-ontology)
+- A semantic, conceptual and ontological analysis to help inform the development of knowledge modeling and terminological systems such as [the authors ontologies for astronautics](https://purl.org/space-ontology)
 - To offer a consistence, coherent, and accurate knowledge model or vocabulary, where desired. 
 - To help improve existing knowledge organization systems for space.
 
@@ -39,14 +39,12 @@ This work provides a living catalog, collecting broad but key terms (and their d
 Robert J. Rovetto - [Schedule a meeting or purchase services](https://knowledgemodeling.setmore.com/)
 https://ontospace.wordpress.com/contact, https://github.com/rrovetto
 Conceptual Engineering - Knowledge representation/modeling, Formal ontology, Research, Philosophy.
-_Selected Community Service & Activity_:
+_Relevant Activity & Output_:
 * Co-lead lexicon topics in AIAA
 * Commitee member, and SME on ontology in AIAA
-* Contributing co-author to [ANSI/AIAA S-153-2021 national standard](https://arc.aiaa.org/doi/book/10.2514/4.106286)
-* Member providing ontology input, Consultative Committee for Space Data Standards (CCSDS)
-* Drafted co-authored terminology paper and report in as committee member of groups in International Astronautical Federation
+* Member providing ontology input, Consultative Committee for Space Data Standards
+* Drafted the co-authored terminology paper, and report, as committee member of groups in International Astronautical Federation
 
 ### Copyright
-©2022, Robert John Rovetto. All right reserved.
-Not authorized for commercial use unless explicitly negotiated with the author. Citation/attribution required. No warranty. Presented "AS IS". Author and copyright holder is not liable.
-All content, work and products are subject to revision. No claims to completeness. 
+©2022, Robert J. Rovetto. All right reserved.
+Not authorized for commercial use unless explicitly negotiated with the author. Citation/attribution required. No warranty. Presented "AS IS". Author and copyright holder is not liable. All content, work and products are subject to revision. No claims to completeness. 

@@ -27,19 +27,18 @@ This work provides a living catalog, collecting broad but key terms (and their d
 - The working catalog (in spreadsheet form) is presently located [here](https://drive.google.com/file/d/1VxThyvuY_VzVl_VNan9cqTsdI6NrYWgX/view?usp=sharing)
 
 ### Support - How you can help
-* If you find value in this work, please formally support it to sustain development: 
-  - [Donate (PayPal)](https://www.paypal.com/donate/?business=JN9YD94DHA87Y&no_recurring=0&item_name=With+your+support%2C+we+can+help+make+spaceflight+safer%2C+and+make+knowledge+about+space+more+accessible.+Thanks.&currency_code=USD)
-  - [Donate here (Gogetfunding)](https://tinyurl.com/y9qegjsh) or [Fund here](https://gogetfunding.com/knowledge-organization-services-ontology-terminology-metadata-concept-analysis/). 
-  - Hire me or establish a formal work partnership: [Schedule a Meeting here](http://my.setmore.com/bookingpage/f18db686-98bb-41dd-9097-35218b2a1091/services/sb83f723d7838e4484783cc5a1c675f0e6eedf99d). [Contact](http://ontospace.wordpress.com/contact).
-  - As an aspiring PhD student, worldwide, consider inviting me to enroll as your student.
+If you find value in this work, please formally support it to sustain development: 
+- [Donate (PayPal)](https://www.paypal.com/donate/?business=JN9YD94DHA87Y&no_recurring=0&item_name=With+your+support%2C+we+can+help+make+spaceflight+safer%2C+and+make+knowledge+about+space+more+accessible.+Thanks.&currency_code=USD)
+- [Donate here (Gogetfunding)](https://tinyurl.com/y9qegjsh) or [Fund here](https://gogetfunding.com/knowledge-organization-services-ontology-terminology-metadata-concept-analysis/). 
+- Hire me or establish a formal work partnership: [Schedule a Meeting here](http://my.setmore.com/bookingpage/f18db686-98bb-41dd-9097-35218b2a1091/services/sb83f723d7838e4484783cc5a1c675f0e6eedf99d). [Contact](http://ontospace.wordpress.com/contact).
+- As an aspiring PhD student, worldwide, consider inviting me to enroll as your student.
 
 ### Author & Developer
 Robert J. Rovetto - [Schedule, hire, or purchase services](https://knowledgemodeling.setmore.com/) or [Contact](https://ontospace.wordpress.com/contact).
 
 Concept Engineer - Knowledge representation/modeling, Formal ontology, Terminology, Research, Philosophy.
 _Relevant Activity & Output_:
-* Co-lead lexicon topics in AIAA
-* Commitee member, and SME on ontology in AIAA
+* Co-lead lexicon topics; Commitee member, and SME on ontology in AIAA
 * Contributing co-author to [ANSI/AIAA S-153-2021 national standard](https://arc.aiaa.org/doi/book/10.2514/4.106286)
 * Member providing ontology input, Consultative Committee for Space Data Standards
 * Drafted a co-authored terminology paper and report as committee member of groups in International Astronautical Federation

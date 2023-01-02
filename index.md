@@ -23,8 +23,8 @@ This work provides a living catalog, collecting broad but key terms (and their d
 * As a personal project, [donations](https://www.paypal.com/donate/?business=JN9YD94DHA87Y&no_recurring=0&item_name=With+your+support%2C+we+can+help+make+spaceflight+safer%2C+and+make+knowledge+about+space+more+accessible.+Thanks.&currency_code=USD), [sponsors](https://tinyurl.com/y9qegjsh), and formal sustainable support are welcome and needed.
 
 ### Access
-- You may purchase a copy [here]().
-- The working catalog (in spreadsheet form) is presently located [here](https://drive.google.com/file/d/1VxThyvuY_VzVl_VNan9cqTsdI6NrYWgX/view?usp=sharing)
+- [Purchase a copy here](https://booking.setmore.com/scheduleappointment/f18db686-98bb-41dd-9097-35218b2a1091/services/130d6b01-fad8-4601-8f9a-f7f473e34c4f).
+- [The location of the working catalog (in spreadsheet form) is here](https://drive.google.com/file/d/1VxThyvuY_VzVl_VNan9cqTsdI6NrYWgX/view?usp=sharing)
 
 ### Support - How you can help
 If you find value in this work, please formally support it to sustain development: 

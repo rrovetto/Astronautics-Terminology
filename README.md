@@ -46,5 +46,5 @@ _Relevant Activity & Output_:
 * Drafted the co-authored terminology paper, and report, as committee member of groups in International Astronautical Federation
 
 ### Copyright
-©2022, Robert J. Rovetto. All right reserved.
+©2023, Robert J. Rovetto. All right reserved.
 Not authorized for commercial use unless explicitly negotiated with the author. Citation/attribution required. No warranty. Presented "AS IS". Author and copyright holder is not liable. All content, work and products are subject to revision. No claims to completeness. 

@@ -1,7 +1,10 @@
 ## About the Catalog of Spaceflight Terminology
-This work provides a living catalog, collecting broad but key terms (and their definitions from various sources) associated with the disciplines of astronautics (spaceflight), space situational awareness (SSA), and space traffic management and coordination. It also will provide a living caparative analysis toward products and recommendations for the community, aiming for terminological synchronization, semantic interoperability, and [ontology development](https://purl.org/space). Example terms includes: 'astronautics', 'spaceflight', 'orbital debris', 'ssa', 'stm', 'space', 'spacecraft', 'orbit', etc. [Contact here](https://ontospace.wordpress.com/contact). Example sources include aerospace dictionaries, standards organizations documents, space agency docs., etc.
+This work is a living catalog of broad but key terms (and their definitions from various sources) associated with the disciplines of astronautics (spaceflight) and to lesser degree astronomy. The former includes space situational awareness (SSA), space sustainability, space policy & law, and space traffic management and coordination. 
+
+The project will provide a living comparative analysis toward products and recommendations for the community, aiming for terminological synchronization, semantic interoperability, and [conceptual model development](https://purl.org/space-ontology). Example terms includes: 'astronautics', 'spaceflight', 'orbital debris', 'ssa', 'stm', 'space', 'spacecraft', 'orbit', etc. [Contact here](https://ontospace.wordpress.com/contact). Example sources include aerospace dictionaries, standards organizations documents, space agency docs., etc.
 
 ### Goals
+- To clarify concepts and terminoloy
 - To provide a non-exhaustive catalog of key generic terms and their various definitions (serving as a general reference).
 - To examine and compare terms and those definitions (semantic, conceptual analysis). 
 - To identify inaccuracies & errors
